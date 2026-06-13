@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 29f1d08b68b694f1285288a9490e4646
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8206541236982649141
+    second: north_wall_floor_grime_0
+  - first:
+      213: 3638513157170049017
+    second: north_wall_floor_grime_1
+  - first:
+      213: 6607347486127769040
+    second: north_wall_floor_grime_2
+  - first:
+      213: -4159678197498088467
+    second: north_wall_floor_grime_3
+  - first:
+      213: 4131171777139829494
+    second: north_wall_floor_grime_4
+  - first:
+      213: -6778125547468975113
+    second: north_wall_floor_grime_5
+  - first:
+      213: -4780511812597199225
+    second: north_wall_floor_grime_6
+  - first:
+      213: 7270410002933098200
+    second: north_wall_floor_grime_7
+  - first:
+      213: -8626013861498417248
+    second: north_wall_floor_grime_8
+  - first:
+      213: -1935187760284467524
+    second: north_wall_floor_grime_9
+  - first:
+      213: 5761883516531478948
+    second: north_wall_floor_grime_10
+  - first:
+      213: 4524118038688673842
+    second: north_wall_floor_grime_11
+  - first:
+      213: 2101594662871387234
+    second: north_wall_floor_grime_12
+  - first:
+      213: 1078666475474365279
+    second: north_wall_floor_grime_13
+  - first:
+      213: -3475677972143288773
+    second: north_wall_floor_grime_14
+  - first:
+      213: -156022545949413889
+    second: north_wall_floor_grime_15
+  - first:
+      213: 2786550903237930253
+    second: north_wall_floor_grime_16
+  - first:
+      213: 6146666085947826190
+    second: north_wall_floor_grime_17
+  - first:
+      213: -4078161446094815940
+    second: north_wall_floor_grime_18
+  - first:
+      213: -5069816890501597197
+    second: north_wall_floor_grime_19
+  - first:
+      213: 8064452934430685499
+    second: north_wall_floor_grime_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: north_wall_floor_grime_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 256
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bceed0f99328c1e80800000000000000
+      internalID: -8206541236982649141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ffa4b350789e7230800000000000000
+      internalID: 3638513157170049017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5473a088302bb50800000000000000
+      internalID: 6607347486127769040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_3
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de37032e7bad546c0800000000000000
+      internalID: -4159678197498088467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_4
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fae98ae7ded45930800000000000000
+      internalID: 4131171777139829494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_5
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f39c140ab24fe1a0800000000000000
+      internalID: -6778125547468975113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ec59da5d538adb0800000000000000
+      internalID: -4780511812597199225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6264c906fa5e460800000000000000
+      internalID: 7270410002933098200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_8
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af8ac5781e3a4880800000000000000
+      internalID: -8626013861498417248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe7f8e2cf4d425e0800000000000000
+      internalID: -1935187760284467524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a19900d78256ff40800000000000000
+      internalID: 5761883516531478948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230b9f9e265e8ce30800000000000000
+      internalID: 4524118038688673842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c4e4e063d5a2d10800000000000000
+      internalID: 2101594662871387234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ba5c5c17138fe00800000000000000
+      internalID: 1078666475474365279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_14
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ecfbc9c49e3cfc0800000000000000
+      internalID: -3475677972143288773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_15
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffdabb33252b5ddf0800000000000000
+      internalID: -156022545949413889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d6a006841dba620800000000000000
+      internalID: 2786550903237930253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e006cdd1d385d4550800000000000000
+      internalID: 6146666085947826190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_18
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d33d495c57767c0800000000000000
+      internalID: -4078161446094815940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7706d266464a9b0800000000000000
+      internalID: -5069816890501597197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: north_wall_floor_grime_20
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 10
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39f8907731baef60800000000000000
+      internalID: 8064452934430685499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      north_wall_floor_grime_0: -8206541236982649141
+      north_wall_floor_grime_1: 3638513157170049017
+      north_wall_floor_grime_10: 5761883516531478948
+      north_wall_floor_grime_11: 4524118038688673842
+      north_wall_floor_grime_12: 2101594662871387234
+      north_wall_floor_grime_13: 1078666475474365279
+      north_wall_floor_grime_14: -3475677972143288773
+      north_wall_floor_grime_15: -156022545949413889
+      north_wall_floor_grime_16: 2786550903237930253
+      north_wall_floor_grime_17: 6146666085947826190
+      north_wall_floor_grime_18: -4078161446094815940
+      north_wall_floor_grime_19: -5069816890501597197
+      north_wall_floor_grime_2: 6607347486127769040
+      north_wall_floor_grime_20: 8064452934430685499
+      north_wall_floor_grime_3: -4159678197498088467
+      north_wall_floor_grime_4: 4131171777139829494
+      north_wall_floor_grime_5: -6778125547468975113
+      north_wall_floor_grime_6: -4780511812597199225
+      north_wall_floor_grime_7: 7270410002933098200
+      north_wall_floor_grime_8: -8626013861498417248
+      north_wall_floor_grime_9: -1935187760284467524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
