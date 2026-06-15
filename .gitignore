@@ -3,4 +3,10 @@ Temp/
 Obj/
 Logs/
 UserSettings/
-
+.DS_Store
+**/.DS_Store
+game/
+game1.app/
+gameweb/
+game.zip
+*_BurstDebugInformation_DoNotShip/
